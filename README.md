@@ -1,3 +1,5 @@
 # Cheminame
 
-Google Assistant App : Talk to Chemi Name
+**Invocation** :- ( Install Google Assistant if not already present )
+
+`Ok Google , Talk to Chemi Name`
